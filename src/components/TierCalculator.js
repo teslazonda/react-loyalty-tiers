@@ -1,5 +1,5 @@
-const TierCalculator = () => {
-
+const TierCalculator = (tier) => {
+//case
 };
 
 export default TierCalculator;
