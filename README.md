@@ -1,6 +1,7 @@
 # Loyalty Tiers
 
-This is the React frontend for teslazonda's solution to the Ichigo Loyalty tiers [coding test](https://tokyotreat.atlassian.net/wiki/external/ODJhODU1MGQ5NmMyNGFmNWFkOGI0YWZhMGI3MzI3OTM).
+This is the React frontend for teslazonda's solution to the Ichigo Loyalty tiers [coding test](https://tokyotreat.atlassian.net/wiki/external/ODJhODU1MGQ5NmMyNGFmNWFkOGI0YWZhMGI3MzI3OTM).  
+The API meant to be used with this app can be found [here](https://github.com/teslazonda/ichigo-loyalty-tiers)
 
 
 ## Setup
