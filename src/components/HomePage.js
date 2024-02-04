@@ -37,7 +37,7 @@ const HomePage = () => {
 
   return (
     <div>
-      <h1>Customer Orders App</h1>
+      <h1>Search for a Customer</h1>
       <form onSubmit={handleSubmit}>
         <label>
           Enter Customer ID:
